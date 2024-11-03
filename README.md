@@ -35,4 +35,4 @@ As an open-source invention, the Hand Gestured AI Vision Mouse concept could ins
 [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
